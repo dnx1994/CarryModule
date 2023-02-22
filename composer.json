@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "type": "project",
+    "name": "dnx1994/carrymodule",
+    "type": "library",
     "description": "The Laravel Framework.",
     "keywords": [
         "framework",
