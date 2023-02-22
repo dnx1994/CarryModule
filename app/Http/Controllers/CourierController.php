@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Courier;
+use CourierModule\Models\Courier;
 use Illuminate\Http\Request;
 
 class CourierController extends Controller
